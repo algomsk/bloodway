@@ -1,0 +1,9 @@
+we have developed blood bank tracker progressive web app using php and mysql
+
+import database_mysql_file to your phpmyadmin
+
+change database config file present in _include/config.php
+
+--------------------
+
+visit online http://hellocit.com/bloodway/
